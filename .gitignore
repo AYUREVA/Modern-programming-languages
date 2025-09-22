@@ -1,6 +1,2 @@
 .DS_Store
-.idea/vcs.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/Modern-programming-languages.iml
-.idea/modules.xml
+.idea
